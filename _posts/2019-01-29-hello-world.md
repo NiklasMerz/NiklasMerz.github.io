@@ -1,8 +1,8 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to niklas.merz.dev!"
 published: true
 ---
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello world**,
 
-I hope you like it!
+This my personal website
